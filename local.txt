@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=C:\Users\Frosty\Documents\PROGAMAÇAO\sla\py\icone.ico "Frosty boost.py"
